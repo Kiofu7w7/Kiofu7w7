@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiofu7w7" alt="kiofu7w7" /></a> </p>
 
-- 🔭 I’m currently working on [AgroColombia](Proximamente)
+- 🔭 I’m currently working on COMING SOON MARCH 15 2024
 
 - 🌱 I’m currently learning **I’m embarking on a data exploration journey, starting with a Microsoft certified course on database manipulation. Join me in this data-driven adventure!**
 
